@@ -1,2 +1,2 @@
-# CrestiveCoding
+# CrativeCoding
 This is Week 7
